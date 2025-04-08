@@ -1,4 +1,4 @@
-# Dual Sorting Algorithm Visualizer
+# Sorting Algorithm
 
 ![](src/main/resources/Sort.gif)
 
